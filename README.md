@@ -1,5 +1,12 @@
-# 💫 About Me:
-# About Me<br><br>I’m not here to collect buzzwords or chase trends.<br>I’m here to **understand the web**, piece by piece, layer by layer.<br><br>While most people rush toward frameworks, I slow down and ask *why*.<br>How the browser thinks.<br>How code turns into experience.<br>How small details quietly decide whether something feels premium or forgettable.<br><br>Right now, my focus is **web development**, but with a long-term mindset. I build things from scratch, break them intentionally, and rebuild them cleaner. Tutorials don’t excite me. **Ownership does.**<br><br>I treat AI as a collaborator, not a crutch.<br>The goal isn’t fast output.<br>The goal is **deep clarity** so I can adapt when tools change and trends expire.<br><br>I care about:<br><br>* Fundamentals over hype<br>* Clean UI that doesn’t scream for attention<br>* Code that future-me won’t hate<br>* Progress that’s real, not performative<br><br># Things that quietly define me<br><br>* I notice spacing, alignment, and flow before features<br>* I’d rather deploy one solid project than list ten skills<br>* I question “best practices” until they make sense<br>* I’m allergic to copy-paste learning<br>* I believe good developers think before they type<br><br>**Current focus**<br><br>* HTML · CSS · JavaScript<br>* Modern UI-centric web projects<br>* Node.js & Express (learning backend the right way)<br><br>I’m not racing anyone.<br>I’m building something sustainable. <br>
+# About Me :)
+
+I build simple, functional apps with a strong focus on UI/UX. My projects are always practical and well-structured — no fluff, just real work.
+
+# Fun Facts
+- I love creative designs  
+- I get weirdly competitive with myself  
+- I always end up learning something new from every project  
+
 
 
 ## 🌐 Socials:
