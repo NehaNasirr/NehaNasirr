@@ -1,6 +1,6 @@
 # About Me :)
 
-I build simple, functional apps with a strong focus on UI/UX. My projects are always practical and well-structured — no fluff, just real work. I like clean designs that feel modern and easy to use, and I always try to make my apps look as polished as possible.
+I build simple, functional Websites with a strong focus on UI/UX. My projects are always practical and well-structured — no fluff, just real work. I like clean designs that feel modern and easy to use, and I always try to make my apps look as polished as possible.
 
 I learn best through hands-on projects, so I’m always experimenting with new ideas and improving my skills with every build. My goal is to create things that not only work well, but also feel satisfying to use.
 
